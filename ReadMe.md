@@ -26,6 +26,13 @@
 
 ---
 
+## 📊 TryHackMe Stats:
+
+![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/St3amPunk.png)  
+
+---
+
+
 ## 📬 Let's Connect:
 
 [My Linkdin](https://www.linkedin.com/in/william-james-schleppegrell-1b9429351/)  
