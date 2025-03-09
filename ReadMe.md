@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects:
 
-- 🔗 [Takashi Router Webapp Auth Bypass](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass]) - An exploit for the Takashi router
+- 🔗 [Takashi Router Webapp Auth Bypass](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass) - An exploit for the Takashi router
 
 ---
 
