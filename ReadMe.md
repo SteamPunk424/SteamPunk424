@@ -1,7 +1,6 @@
 # 👋 Hi, I'm St3amPunk(William James Schleppegrell)!
 
 🔹 Cybersecurity Enthusiast | Ethical Hacker in Training  
-🔹 Learning All The Things 
 🔹 I Am Super Passionate about CyberSecurity! 
 
 ---
