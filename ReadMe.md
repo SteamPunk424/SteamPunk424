@@ -35,5 +35,5 @@
 
 ## 📬 Let's Connect:
 
-![My Linkdin](https://www.linkedin.com/in/st3ampunk/)  
+![My Linkdin](https://www.linkedin.com/in/william-james-schleppegrell-1b9429351/)  
 
