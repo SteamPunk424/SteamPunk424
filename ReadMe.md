@@ -15,8 +15,8 @@
 
 ## 🚀 Featured Projects:
 
-- 🔗 [Takashi Router Webapp Incorrect Access Control CVE-2025-29711](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authentication-Bypass) - An exploit for the Takashi router
-- 🔗 [Takashi Router Webapp Stored XSS CVE-2025-29712](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) - An exploit for the Takashi router
+- 🔗 [CVE-2025-29711 Takashi Router Webapp Incorrect Access Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) - An exploit for the Takashi router
+- 🔗 [CVE-2025-29712 Takashi Router Webapp Stored XSS ](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) - An exploit for the Takashi router
 
 ---
 
