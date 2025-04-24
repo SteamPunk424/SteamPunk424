@@ -7,7 +7,7 @@
 
 # 🐱 Tech Stack:
 
-- **Languages:** Python, JavaScript, Shell
+- **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
 - **Development:** Linux, Bash
 
