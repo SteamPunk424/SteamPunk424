@@ -28,7 +28,7 @@
 
 # 🦠 TryHackMe Stats:
 
-![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/St3amPunk.png)  
+![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/St3amPunk.png?update=1)  
 
 ---
 
