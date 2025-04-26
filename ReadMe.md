@@ -6,6 +6,7 @@
 
 ◆ As a matter of fact, just yesterday i found an Agate... i ate that too. i also had to google how
 to spell that. Agate. Weird word.
+
 ---
 
 # 🐱 Stuff i know and stuff:
