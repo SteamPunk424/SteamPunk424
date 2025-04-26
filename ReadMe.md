@@ -11,9 +11,9 @@ to spell that. Agate. Weird word.
 
 # 🐱 Stuff i know and stuff:
 
-- **Languages:** Python, JavaScript, Bash Script
+- **Languages:** Python, JavaScript, Bash Script, Nodejs
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
-- **Development:** Linux, Bash
+- **Development:** Linux, Bash, Vscode
 
 ---
 
