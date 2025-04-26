@@ -1,7 +1,9 @@
 # ╪ Sup Nerds, I'm St3amPunk(William James Schleppegrell) aka SteamPunk424! ╪
 
 ◆ I am a Cybersecurity Enthusiast / Ethical Hacker in Training.
+
 ❖ I also eat rocks and other assorted items that should not go in my mouth. 
+
 ◆ As a matter of fact, just yesterday i found an Agate... i ate that too. i also had to google how
 to spell that. Agate. Weird word.
 ---
