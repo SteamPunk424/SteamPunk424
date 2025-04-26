@@ -1,11 +1,12 @@
-# ╪ Hi, I'm St3amPunk(William James Schleppegrell) aka SteamPunk424! ╪
+# ╪ Sup Nerds, I'm St3amPunk(William James Schleppegrell) aka SteamPunk424! ╪
 
-◆ Cybersecurity Enthusiast | Ethical Hacker in Training  
-❖ I Am Super Passionate about CyberSecurity! 
-
+◆ I am a Cybersecurity Enthusiast / Ethical Hacker in Training.
+❖ I also eat rocks and other assorted items that should not go in my mouth. 
+◆ As a matter of fact, just yesterday i found an Agate... i ate that too. i also had to google how
+to spell that. Agate. Weird word.
 ---
 
-# 🐱 Tech Stack:
+# 🐱 Stuff i know and stuff:
 
 - **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
