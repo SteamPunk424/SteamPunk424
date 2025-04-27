@@ -2,10 +2,7 @@
 
 ◆ I am a Cybersecurity Enthusiast / Ethical Hacker in Training.
 
-❖ I also eat rocks and other assorted items that should not go in my mouth. 
-
-◆ As a matter of fact, just yesterday i found an Agate... i ate that too. i also had to google how
-to spell that. Agate. Weird word.
+❖ I am trying my hardest to improve my skills and am constantly training in many different ways to keep things fresh.
 
 ---
 
