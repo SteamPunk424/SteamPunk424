@@ -27,7 +27,7 @@
 
 ---
 
-# 🦠 TryH@ckM3 $t@tu$ R3p0rt:
+# 🦠 TryH@ckM3 Status R3p0rt:
 
 ![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/St3amPunk.png?update=1)  
 
