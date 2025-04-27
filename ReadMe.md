@@ -4,7 +4,7 @@
 
 ❖ I am trying my hardest to improve my skills and am constantly training in many different ways to keep things fresh.
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
 
 # 🐱 T3chn0l0g1c@l Kn0w How:
 
@@ -13,13 +13,13 @@
 - **Development:** Linux, Bash, Nodejs
 
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
 # 🐈 Featured Pr0j3ct$:
 
 - 🔗 [CVE-2025-29711 Takashi Router Webapp Incorrect Access Control](https://github.com/SteamPunk424/CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) - An exploit I discovered for the Takashi router
 - 🔗 [CVE-2025-29712 Takashi Router Webapp Stored XSS ](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) - An exploit for the Takashi router me and 2 others discovered
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
 
 # 🦠 G1tHub Status R3p0rt:
 
