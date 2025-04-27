@@ -21,7 +21,7 @@
 
 ---
 
-# 🦠 G1tHub $t@tu$ R3p0rt:
+# 🦠 G1tHub Status R3p0rt:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteamPunk424&show_icons=true&theme=radical)  
 
