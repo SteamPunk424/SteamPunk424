@@ -4,7 +4,7 @@
 
 ❖ I am trying my hardest to improve my skills and am constantly training in many different ways to keep things fresh.
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
 
 # 🐱 T3chn0l0g1c@l Kn0w How:
 
