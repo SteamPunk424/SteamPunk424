@@ -23,12 +23,6 @@
 
 🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
 
-# 🦠 G1tHub Status R3p0rt:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteamPunk424&show_icons=true&theme=radical)  
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
-
 # 🦠 TryH@ckM3 Status R3p0rt:
 
 ![Your TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/St3amPunk.png)  
