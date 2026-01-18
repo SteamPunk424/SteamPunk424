@@ -6,22 +6,22 @@
 
 ❖ I am trying my hardest to improve my skills and am constantly training in many different ways to keep things fresh.
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+_____________________________________________________________________________________________________________________
 
-# 🐱 T3chn0l0g1c@l Kn0w How:
+#  T3chn0l0g1c@l Kn0w How:
 
 - **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
 - **Development:** Linux, Bash, Nodejs
 - **Skills:** Professional Ai Abuser LOL
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+_____________________________________________________________________________________________________________________
 # 🐈 Featured Pr0j3ct$:
 
 - 🔗 [Takashi Router Webapp Incorrect Access Control](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control) - An exploit I discovered for the Takashi router
 - 🔗 [Takashi Router Webapp Stored XSS ](https://github.com/SteamPunk424/TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS) - An exploit for the Takashi router me and 2 others discovered
 
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛
+_____________________________________________________________________________________________________________________
 
 
 # 📬 C0nn3ct W1th M3 0n L1nkd1n
