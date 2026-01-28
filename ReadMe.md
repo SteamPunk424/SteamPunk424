@@ -1,4 +1,4 @@
-# ╪ Wh@t$ Up N3rds! I'm St3amPunk(William James Schleppegrell) aka SteamPunk424! ╪
+# 🐈 ╪ Wh@t$ Up N3rds! I'm St3amPunk(William James Schleppegrell) aka SteamPunk424! ╪
 
 ◆ To get ahold of me, email me at st3ampunk@scr1ptk1dd13s.xyz
 
@@ -8,7 +8,7 @@
 
 _____________________________________________________________________________________________________________________
 
-#  T3chn0l0g1c@l Kn0w How:
+# 🐈 T3chn0l0g1c@l Kn0w How:
 
 - **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 
-# 📬 C0nn3ct W1th M3 0n L1nkd1n
+# 🐈 C0nn3ct W1th M3 0n L1nkd1n
 
 - [My Linkdin](https://www.linkedin.com/in/william-james-schleppegrell-1b9429351/)  
 
