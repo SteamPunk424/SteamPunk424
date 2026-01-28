@@ -13,7 +13,6 @@ ________________________________________________________________________________
 - **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
 - **Development:** Linux, Bash, Nodejs
-- **Skills:** Professional Ai Abuser LOL
 
 _____________________________________________________________________________________________________________________
 # 🐈 Featured Pr0j3ct$:
