@@ -13,7 +13,7 @@ ________________________________________________________________________________
 - **Languages:** Python, JavaScript, Bash Script
 - **Security Tools:** Burpesuit, Metasploit, Nmap Etc...   
 - **Development:** Linux, Bash, Nodejs
-
+- **Preference:** Web Application Pentesting and IOT Hacking 
 _____________________________________________________________________________________________________________________
 # 🐈 Featured Pr0j3ct$:
 
